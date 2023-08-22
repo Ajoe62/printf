@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * flags_p - Calculates active flags
+ * flags_p - Active flags to calculate
  * 
- * @format: Formatted string in which to print the arguments
- * @i: take a parameter.
- * Return: Flags:
+ * @format: Prints the arguments of the Formatted string
+ * @i: parameter.
+ * Return: The active Flags
  */
 int flags_p(const char *format, int *i)
 {
