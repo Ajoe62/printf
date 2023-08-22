@@ -3,7 +3,7 @@
 /**
  * to_print - checks if a char is printable
  *
- * @c: Char acterto be evaluated.
+ * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
  */
@@ -17,10 +17,10 @@ int to_print(char c)
 
 /**
  * hexa_append - Append ascci in hexadecimal code to buffer
- * @buffer: Array of characters.
- * @i: Index  appending.
+ * @buffer: Array of chars.
+ * @i: Index at which to start appending.
  * @ascii_code: ASSCI CODE.
- * Return: Always 3 or otherwise
+ * Return: Always 3
  */
 int hexa_append(char ascii_code, char buffer[], int i)
 {
@@ -40,7 +40,7 @@ int hexa_append(char ascii_code, char buffer[], int i)
 
 /**
  * digit_verify - This Verifies if a char is a digit
- * @c: Character to be evaluated
+ * @c: Char to be evaluated
  *
  * Return: 1 if c is a digit, 0 otherwise
  */
@@ -54,10 +54,10 @@ int digit_verify(char c)
 
 /**
  * num_convert - This Casts a number to the specified size
- * @num: Number casting.
- * @size: size of  type to be casted.
+ * @num: Number to be casted.
+ * @size: Number indicating the type to be casted.
  *
- * Return: value casting of num
+ * Return: Casted value of num
  */
 long int num_convert(long int num, int size)
 {
@@ -71,8 +71,8 @@ long int num_convert(long int num, int size)
 
 /**
  * unsig_convert - This Casts a number to the specified size
- * @num: Number casting
- * @size: size of type casting
+ * @num: Number to be casted
+ * @size: Number indicating the type to be casted
  *
  * Return: Casted value of num
  */

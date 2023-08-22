@@ -3,11 +3,11 @@
 /**
  * exact_p - Calculates the precision for printing
  * 
- * @format: Prints the arguments of the Formatted string
- * @i: Print the  arguments to list
- * @list: list type of arguments.
+ * @format: Formatted string in which to print the arguments
+ * @i: List of arguments to be printed.
+ * @list: list of arguments.
  *
- * Return: Precision specification.
+ * Return: Precision.
  */
 int exact_p(const char *format, int *i, va_list list)
 {
