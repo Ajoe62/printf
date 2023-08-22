@@ -2,7 +2,7 @@
 
 /**
  * size_p - Calculates the size to cast the argument
- * 
+ *
  * @format: Prints the arguments of the Formatted string
  * @i: Prints the arguments list
  *

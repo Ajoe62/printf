@@ -119,7 +119,7 @@ int print_hexa_upper(va_list types, char buffer[],
  * @map_to: Map leading to the number  and value of arrays
  * @buffer: Handle printing of Buffer array
  * @flags:  Active flags to be calculated
- * @flag_ch: Active flags to be calculated 
+ * @flag_ch: Active flags to be calculated
  * @width: get width option
  * @precision: Precision format specification
  * @size: Size specification

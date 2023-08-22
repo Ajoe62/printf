@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * handle_print - Prints an format specifier argument based on its type
- * 
+ *
  * @fmt: Prints the argument of the Formatted string
  * @list: Prints the List of arguments
  * @ind: The index

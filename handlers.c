@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * char_handle - handle Prints a string 
- * 
+ * char_handle - handle Prints a string
+ *
  * @c: char types.
  * @buffer: Handle printing of Buffer array
  * @flags:  Active flags to calculate.

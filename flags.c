@@ -2,7 +2,7 @@
 
 /**
  * flags_p - Active flags to calculate
- * 
+ *
  * @format: Prints the arguments of the Formatted string
  * @i: parameter.
  * Return: The active Flags

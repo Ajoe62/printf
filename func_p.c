@@ -2,12 +2,12 @@
 
 /**
  * var_point - Prints the value of a pointer variable
- * 
+ *
  * @types: List type of arguments
- * @buffer: Handle Buffer array 
+ * @buffer: Handle Buffer array
  * @flags:  Calculates active flags
  * @width: get width option
- * @precision: Precision format  specification 
+ * @precision: Precision format specification
  * @size: Size format specifier
  * Return: Number of chars printed.
  */
