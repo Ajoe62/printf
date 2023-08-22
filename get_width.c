@@ -5,9 +5,9 @@
  *
  * @format: Formatted string in which to print the arguments.
  *
- * @l: List of arguments to be printed.
+ * @l: Arguments lisr to be printed.
  *
- * @arg: list of arguments.
+ * @arg: arguments list
  *
  * Return: width.
  */
