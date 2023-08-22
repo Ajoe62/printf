@@ -3,10 +3,10 @@
 /**
  * size_p - Calculates the size to cast the argument
  * 
- * @format: Formatted string in which to print the arguments
- * @i: List of arguments to be printed.
+ * @format: Prints the arguments of the Formatted string
+ * @i: Prints the arguments list
  *
- * Return: Precision.
+ * Return: Precision specification.
  */
 int size_p(const char *format, int *i)
 {
